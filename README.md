@@ -1,15 +1,3 @@
-# Sesh - Study Group Matching Platform
-
-A collaborative study session platform that connects students for effective peer learning.
-
-## Features
-
-- **Study Partner Matching**: Find study partners for specific courses
-- **Real-time Chat**: Communicate with matched study partners
-- **Rating System**: Rate your study sessions and partners
-- **Course-based Pairing**: Match with students taking the same courses
-- **Notification System**: Get notified of new matches and messages
-
 ## Tech Stack
 
 - Frontend: React + TypeScript with Shadcn UI components
@@ -49,11 +37,3 @@ npm run dev
 - Messages
 - Ratings
 - Notifications
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
